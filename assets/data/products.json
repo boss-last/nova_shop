@@ -1,0 +1,102 @@
+[
+  {
+    "id": "p1",
+    "name": "Casque Nova Pulse",
+    "description": "Casque Bluetooth à réduction de bruit active, autonomie 30 h, confort mémoire.",
+    "price": 129.90,
+    "category": "Audio",
+    "rating": 4.7,
+    "stock": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800"
+  },
+  {
+    "id": "p2",
+    "name": "Montre Aura Sport",
+    "description": "Montre connectée GPS, suivi santé, écran AMOLED et résistance 5 ATM.",
+    "price": 189.00,
+    "category": "Wearable",
+    "rating": 4.5,
+    "stock": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800"
+  },
+  {
+    "id": "p3",
+    "name": "Enceinte Orbit Mini",
+    "description": "Enceinte portable étanche IP67, 12 h d'autonomie, basses profondes.",
+    "price": 79.50,
+    "category": "Audio",
+    "rating": 4.4,
+    "stock": 24,
+    "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800"
+  },
+  {
+    "id": "p4",
+    "name": "Sac Metro Cuir",
+    "description": "Sac bandoulière en cuir pleine fleur, compartiment laptop 14 pouces.",
+    "price": 159.00,
+    "category": "Mode",
+    "rating": 4.6,
+    "stock": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800"
+  },
+  {
+    "id": "p5",
+    "name": "Lampe Halo Desk",
+    "description": "Lampe de bureau LED, température de couleur réglable, port USB-C.",
+    "price": 54.90,
+    "category": "Maison",
+    "rating": 4.3,
+    "stock": 30,
+    "imageUrl": "https://images.unsplash.com/photo-1507473883500-6e3e0e8d4d1c?w=800"
+  },
+  {
+    "id": "p6",
+    "name": "Clavier Flux 75",
+    "description": "Clavier mécanique compact, switches silencieux, RGB discret.",
+    "price": 119.00,
+    "category": "Informatique",
+    "rating": 4.8,
+    "stock": 15,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=800"
+  },
+  {
+    "id": "p7",
+    "name": "Baskets Drift Air",
+    "description": "Sneakers légères, semelle rebound, mesh respirant. Unisexe.",
+    "price": 99.90,
+    "category": "Mode",
+    "rating": 4.2,
+    "stock": 21,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800"
+  },
+  {
+    "id": "p8",
+    "name": "Mug Thermo Keep",
+    "description": "Mug isotherme 450 ml, tient 8 h au chaud, couvercle anti-fuite.",
+    "price": 24.90,
+    "category": "Maison",
+    "rating": 4.1,
+    "stock": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=800"
+  },
+  {
+    "id": "p9",
+    "name": "Webcam Lumen 4K",
+    "description": "Webcam 4K HDR, micro à réduction de bruit, cadre automatique.",
+    "price": 149.00,
+    "category": "Informatique",
+    "rating": 4.6,
+    "stock": 11,
+    "imageUrl": "https://images.unsplash.com/photo-1587826080692-f439cd0b70da?w=800"
+  },
+  {
+    "id": "p10",
+    "name": "Chargeur MagDock",
+    "description": "Station 3-en-1 MagSafe, Apple Watch et AirPods, 15 W.",
+    "price": 69.00,
+    "category": "Informatique",
+    "rating": 4.4,
+    "stock": 17,
+    "imageUrl": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800"
+  }
+]
