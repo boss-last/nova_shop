@@ -85,6 +85,10 @@ flutter run
 - [x] Loading / erreur + `AsyncValue`
 - [x] Données mock JSON
 
+git clone https://github.com/boss-last/nova_shop.git
+cd nova_shop
+flutter pub get
+flutter run
 ## Licence
 
 MIT
